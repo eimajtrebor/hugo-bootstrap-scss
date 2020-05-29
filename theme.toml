@@ -1,0 +1,12 @@
+name = "Hugo Bootstrap Scss"
+license = "MIT"
+licenselink = "https://github.com/eimajtrebor/hugo-bootstrap-scss/blob/master/LICENSE"
+description = "A basic Bootstrap theme that can be used with SCSS"
+homepage = "https://github.com/eimajtrebor/hugo-bootstrap-scss"
+tags = ["blog", "minimalist", "simple"]
+features = ["bootstrap", "responsive", "scss"]
+min_version = "0.41.0"
+
+[author]
+  name = "Jim McCormick"
+  homepage = "https://github.com/eimajtrebor"
